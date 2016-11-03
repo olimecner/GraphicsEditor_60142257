@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 import javax.swing.event.MouseInputListener;
 import contant.GConstants.EDrawingType;
 import shapes.GShape;
-
+//rlawnsdyd
 
 public class GDrawingPanel extends JPanel {
 	// attributes
